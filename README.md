@@ -3,6 +3,10 @@
 ![alt text](https://i.ibb.co/18m9SbX/Captura-de-pantalla-de-2021-06-08-10-02-35.png)
 
 
+## Aca esta el proyecto online
+
+https://jumperenterprise.github.io/lego-landing-page/
+
 ## Construido con 🛠️
 
 *HTML
